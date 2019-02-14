@@ -1,11 +1,7 @@
 {
-  "useConfigFiles": false,
+  "useConfigFiles": true,
   "packageManager": "npm",
   "useTaobaoRegistry": false,
-  "cssPreprocessor": "less",
-  "router": true,
-  "vuex": true,
-  "routerHistoryMode": false,
   "plugins": {
     "@vue/cli-plugin-babel": {},
     "@vue/cli-plugin-eslint": {}
